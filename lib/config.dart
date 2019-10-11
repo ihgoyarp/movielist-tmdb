@@ -1,1 +1,1 @@
-String getApiKey() { return '97db47b5444e837408b3ea83c5d6496a'; }
+String getApiKey() { return 'XXXXX-XXXXX-XXXXX'; }
